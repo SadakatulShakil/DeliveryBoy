@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">C2L(DeliveryBoy)</string>
+
+
+    <string name="drawer_closed">drawer_closed</string>
+    <string name="drawer_open">drawer_open</string>
+    <string name="order_details">Order Details</string>
+    <string name="demo_address">Dhanmondi 32, Sukkrabad Bazar Road\nHouse no: 75/G, Flat no: 1A, Dhaka-1207</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
